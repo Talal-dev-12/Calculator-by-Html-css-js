@@ -1,6 +1,3 @@
-Here’s a simple README text for your calculator project:
-
----
 
 # Calculator
 
